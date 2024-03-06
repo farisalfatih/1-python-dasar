@@ -1,0 +1,12 @@
+print("=====Type Data=====\n\n")
+print("Tipe data dalam Python adalah atribut yang memberikan informasi tentang jenis nilai yang dapat disimpan oleh variabel. Python adalah bahasa pemrograman yang dinamis, yang berarti tipe data variabel dapat berubah selama runtime. Berikut adalah beberapa tipe data umum dalam Python:\n")
+print("1. Integer (int): Mewakili bilangan bulat, seperti 1, 10, atau -5.\n   Contoh : angka = 42")
+print("2. Float (float): Mewakili bilangan desimal atau floating-point, seperti 3.14 atau -0.5.\n   nilai_pi = 3.14")
+print("3. String (str): Digunakan untuk menyimpan teks atau karakter. Didefinisikan dengan tanda kutip (bisa tunggal atau ganda).\n   Contoh : nama = 'John'")
+print("4. Boolean (bool): Hanya memiliki dua nilai, True atau False, yang digunakan untuk operasi logika.\n   Contoh : benar = True   \nsalah = False")
+print("5. List (list): Digunakan untuk menyimpan sekumpulan nilai (elemen) yang dapat diubah. Elemen-elemen ini dapat berupa tipe data apa pun.\n   Contoh : daftar_angka = [1, 2, 3, 4, 5]")
+print("6. Tuple (tuple): Mirip dengan list, tetapi bersifat tidak dapat diubah setelah pembuatan.\n   Contoh : koordinat = (3, 5)")
+print("7. Set (set): Digunakan untuk menyimpan himpunan nilai unik tanpa urutan tertentu.\n   Contoh : himpunan_angka = {1, 2, 3, 4, 5}")
+print("8. Dictionary (dict): Digunakan untuk menyimpan pasangan kunci-nilai.\n   Contoh : data_mahasiswa = {'nama': 'John', 'umur': 25, 'nilai': 85} \n")
+
+print("Cara kerja tipe data pada Python melibatkan interpretasi yang dilakukan oleh interpreter Python. Saat Anda membuat variabel dan memberikan nilai padanya, Python secara otomatis menentukan tipe datanya berdasarkan nilai yang Anda berikan. Sebagai bahasa yang dinamis, Anda tidak perlu secara eksplisit mendeklarasikan tipe data saat membuat variabel. Python akan secara otomatis menangani tipe data tersebut selama eksekusi program.")
